@@ -1,0 +1,8 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <ItemGroup>
+    <PackageReference Include="NewId" Version="4.0.0-develop.44" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Payment.Contracts\Payment.Contracts.csproj" />
+  </ItemGroup>
+</Project>

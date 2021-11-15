@@ -1,0 +1,8 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <ItemGroup>
+    <ProjectReference Include="..\Backend.Contracts\Backend.Contracts.csproj" />
+    <ProjectReference Include="..\ClusterUtils\ClusterUtils.csproj" />
+    <ProjectReference Include="..\DataAccess\DataAccess.csproj" />
+    <ProjectReference Include="..\Payment.Client\Payment.Client.csproj" />
+  </ItemGroup>
+</Project>

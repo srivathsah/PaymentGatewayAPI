@@ -1,0 +1,5 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <ItemGroup>
+    <ProjectReference Include="..\DateUtils\DateUtils.csproj" />
+  </ItemGroup>
+</Project>
